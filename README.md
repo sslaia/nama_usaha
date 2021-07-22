@@ -7,10 +7,10 @@ dari Google codelab
 
 Ini hanya merupakan titik tolak untuk membangun satu aplikasi flutter.
 
-Panduan dan bantuan lainnya ada di:
+Panduan untuk membuat aplikasi ini ada di
+[Write your first app](https://flutter.dev/docs/get-started/codelab)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+Berbagai dokumentasi, tutorial dan tips ada di
+- [dokumentasi online](https://flutter.dev/docs)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-Berbagai dokumentasi dan tutorial ada di
-[dokumentasi online](https://flutter.dev/docs).
